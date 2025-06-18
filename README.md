@@ -1,6 +1,6 @@
 # Ml-With-Python - Jupyter Notebook
 
-This project contains a basic **Jupyter Notebook** file created using **Anaconda** and **JupyterLab**. It's intended as a starting point for learning Python, data science, or machine learning.
+This project contains a basic **Jupyter Notebook** file created using **Anaconda** and **JupyterLab**. It's intended as a starting point for learning Python, data science, or machine learning. l also included files for machine learning with python.
 
 ---
 
