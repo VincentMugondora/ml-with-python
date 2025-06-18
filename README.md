@@ -71,7 +71,7 @@ jupyter lab
 **Vincent Mugondora**  
 📧 vinmugondora@gmail.com 
 🌍 Based in Zimbabwe  
-🧑‍🏫 Youth coding instructor | Python & JavaScript teacher
+🧑‍🏫 Junior Software Engineering Instructor @uncommon.org | Python & JavaScript teacher
 
 ---
 
